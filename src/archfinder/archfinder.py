@@ -32,7 +32,7 @@ from io import TextIOWrapper
 import re
 
 AUTHOR  = 'Francisco Braço-Forte'
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 # Json File containing all Arch Linux mirrors.
 MIRRORS_STATUS_URL = 'https://archlinux.org/mirrors/status/json/'

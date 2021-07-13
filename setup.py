@@ -7,7 +7,7 @@ with open(README) as file:
 
 setup(
     name='archfinder',
-    version='0.0.1',
+    version='0.0.2',
     description='Arch Linux mirrorlist builder for pacman',
     long_description=longDescription,
     long_description_content_type='text/markdown',
