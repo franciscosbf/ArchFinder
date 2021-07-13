@@ -37,7 +37,7 @@ A script that writes a mirrolist of Arch Linux mirrors, according with your pref
     writer.writeMirrorlist(writeNormal=True)
 
 #### - Command line
-    archsfinder [ARGS...]
+    archfinder [ARGS...]
 
 or
 
@@ -100,5 +100,8 @@ or
 
 
 ### Changes 
+#### 0.0.2 (13-7-2021)
+* README.md "Usage - Command Line" correction
+
 #### 0.0.1 (13-7-2021)
 * First release.
