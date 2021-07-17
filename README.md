@@ -100,6 +100,9 @@ or
 
 
 ### Changes 
+#### 0.0.3 (17-7-2021)
+* Minor fix of entry_points on setup.py
+
 #### 0.0.2 (13-7-2021)
 * README.md "Usage - Command Line" correction
 
