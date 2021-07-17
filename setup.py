@@ -30,7 +30,7 @@ setup(
     zip_safe=False,
     entry_points={
         'console_scripts' : [
-                'archsfinder=archsfinder.archfinder:main'
+                'archfinder=archfinder.archfinder:main'
         ]
     }  
 )
